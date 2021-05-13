@@ -1,0 +1,75 @@
+/*
+Theme Name: Sports Club Lite
+Theme URI: https://gracethemes.com/themes/free-sports-league-wordpress-theme/
+Author: Grace Themes
+Author URI: https://gracethemes.com/
+Description: Sports Club Lite is a resourceful, modern and engaging, youthful and lively, purposeful and versatile, highly responsive sports league WordPress theme. This sports theme has been designed to provide an easy and specialized platform for the streamlined development of professional, awesome and tech-savvy websites for various sports club. This flexible theme can be adjusted to be used for rugby, football, basketball, volleyball, hockey, tennis, baseball or any other individual sport. This feature-rich, highly customizable and multisport WordPress theme can also be used to create a fully functional website template for fitness clubs, gyms, dance schools, martial arts, personal trainers and any other health & fitness related business.  Demo Link: http://www.gracethemesdemo.com/sports-club/
+
+Version: 1.1
+License: GNU General Public License version 2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: sports-club-lite
+Text Domain: sports-club-lite
+Tags:blog,two-columns,right-sidebar,full-width-template,custom-colors,custom-menu,custom-header,custom-logo,featured-images,editor-style,custom-background,threaded-comments,theme-options, translation-ready
+
+Sports Club Lite WordPress Theme has been created by Grace Themes(gracethemes.com), 2019.
+Sports Club Lite WordPress Theme is released under the terms of GNU GPL
+*/
+@import url("../sports-club-lite/style.css");
+
+h1 {
+	font-size: 40px;
+	font-family: 'Arial', sans-serif;
+	color: black;
+	margin: 0 0 20px;
+	padding: 0;
+	font-weight: 600;
+	line-height: 1.1;
+}
+
+div.sitemenu {
+	opacity: 0.8;
+}
+	
+img.custom-logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
+}
+
+.footer-wrapper {
+	background-color: #262a31;
+	padding: 0;
+	position: relative;
+	color: #6a6a6a;
+}
+
+.toggle a:hover{color: white important;}
+
+h3.single-title{
+	font-size: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+div.blogpost_date {
+	color: black;
+	text-align: center;
+	margin: 0px;
+}
+
+div.blogpost_meta {
+	margin-left: 30%;
+}
+
+div.post-author {
+	color: black;
+	text-align: center;
+	margin: 0px;
+}
+
+.header_right{
+    padding: 20px;
+}
